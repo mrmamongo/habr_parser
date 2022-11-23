@@ -1,0 +1,13 @@
+venv
+build
+__pycache__
+.idea
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+*.csv
+*.dat
+*.db
+*.log
