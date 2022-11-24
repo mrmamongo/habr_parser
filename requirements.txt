@@ -4,6 +4,4 @@ aiosqlite
 aiocsv~=1.2.3
 lxml~=4.9.1
 beautifulsoup4~=4.11.1
-
-aiorun~=2022.11.1
 bs4~=0.0.1
